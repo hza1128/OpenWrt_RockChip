@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: main
+  REPO_BRANCH: master
   CONFIG_FILE: configs/lede/full.config
   DIY_SH: scripts/lede.sh
   KMODS_IN_FIRMWARE: true
